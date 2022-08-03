@@ -8,4 +8,4 @@ Link to web application: https://ejackson1228.github.io/password-professional/
 
 Preview of page:
 
-<img src="./password-professional-screenshot.jpeg" alt="preview of application">
+<img src="./password-professional-screenshot.jpg" alt="preview of application">
